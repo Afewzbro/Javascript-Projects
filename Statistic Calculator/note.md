@@ -1,0 +1,1 @@
+In this statistics calculator project, I gained experience with handling user input, DOM manipulation, and method chaining. I practiced by performing statistical calculations like mean, median, mode, variance, and standard deviation.
